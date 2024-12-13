@@ -25,11 +25,6 @@ $ Extraction completed! 6614 classes were saved in 'Output.txt'.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Documentação
-
-[Documentação](https://link-da-documentação)
-
-
 ## Autores
 
 - [@ThewsyRum](https://www.github.com/ThewsyRum)
