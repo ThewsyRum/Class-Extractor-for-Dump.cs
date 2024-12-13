@@ -4,9 +4,7 @@ I didn't want to keep testing various possible classes until I found the correct
 
 ## Requirements
 
-```
-Python3 installed
-```
+- Python3 installed
     
 ## Usage/Examples
 
