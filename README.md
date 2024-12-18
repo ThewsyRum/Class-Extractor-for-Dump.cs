@@ -18,11 +18,6 @@ $ Extraction completed! 6614 classes were saved in 'Output.txt'.
 ```
 
 
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Autores
 
 - [@ThewsyRum](https://www.github.com/ThewsyRum)
